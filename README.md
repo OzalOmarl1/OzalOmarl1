@@ -61,6 +61,25 @@ OSTİM Teknik Üniversitesi Fen Bilimleri Enstitüsü'nde **Yazılım Mühendisl
 
 ---
 
+## 🎤 Kongre ve Etkinlikler
+
+<table>
+  <tr>
+    <td width="48%" valign="middle">
+      <a href="belge-ulusal-ogrenci-kongresi.jpg"><img src="belge-ulusal-ogrenci-kongresi.jpg" alt="Ulusal Öğrenci Kongresi katılım belgesi" width="100%"/></a>
+    </td>
+    <td width="52%" valign="middle">
+      <h4>🤖 Ulusal Öğrenci Kongresi</h4>
+      <p><b><i>“Yapay Zeka Çağında Sürdürülebilir İşletmeler”</i></b></p>
+      <p>📅 30 Nisan 2026 · Katılım belgesi<br/>
+      🏛️ Ev sahibi: <b>İzmir Kâtip Çelebi Üniversitesi</b><br/>
+      🤝 Ortaklık: OSTİM Teknik Üniversitesi ve İzmir Demokrasi Üniversitesi</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🏅 Siber Güvenlik Sertifikaları
 
 <table>
