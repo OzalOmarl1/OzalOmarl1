@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Ozal Omarlı — Bilgisayarlı Görü · Derin Öğrenme · Siber Güvenlik" width="100%"/>
+  <img src="banner.svg" alt="OZAL OMARLI — Bilgisayarlı Görü · Derin Öğrenme · Siber Güvenlik" width="100%"/>
 </p>
 
 <p align="center">
