@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OST%C4%B0M%20TEKN%C4%B0K%20%C3%9CN%C4%B0VERS%C4%B0TES%C4%B0%20%C2%B7%20YAZILIM%20M%C3%9CHEND%C4%B0SL%C4%B0%C4%9E%C4%B0%20YL-0A3D62?style=for-the-badge" alt="OSTİM Teknik Üniversitesi · Yazılım Mühendisliği YL" height="28"/>
-  <img src="https://img.shields.io/badge/S%C4%B0BER%20G%C3%9CVENL%C4%B0K%20ARA%C5%9ETIRMACISI%20%2F%20RED%20TEAM-C8102E?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Siber Güvenlik Araştırmacısı / Red Team" height="28"/>
+  <img src="rozet-ostim.svg" alt="OSTİM Teknik Üniversitesi · Yazılım Mühendisliği YL" height="34"/>
+  <img src="rozet-redteam.svg" alt="Siber Güvenlik Araştırmacısı / Red Team" height="34"/>
 </p>
 
 ---
