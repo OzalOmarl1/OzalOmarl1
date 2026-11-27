@@ -42,7 +42,7 @@
   <text x="70" y="118" class="name">Ozal Omarlı</text>
   <rect x="72" y="136" width="96" height="4" rx="2" fill="url(#accent)"/>
   <text x="70" y="178" class="sub">Bilgisayarlı Görü · Derin Öğrenme · Siber Güvenlik</text>
-  <text x="70" y="208" class="org">OSTİM Teknik Üniversitesi · Mühendislik Fakültesi</text>
+  <text x="70" y="208" class="org">OSTİM Teknik Üniversitesi · Yazılım Mühendisliği Yüksek Lisans</text>
   <text x="70" y="250" class="mono">$ tespit --model yolov8 --protokol ön-kayıtlı --güvenlik etik<tspan class="cursor"> ▌</tspan></text>
 
   <!-- right: detection motif (licence plate inside a detection box) -->
