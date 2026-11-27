@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ozalomerli011@gmail.com"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-posta" height="28"/></a>
+  <a href="mailto:ozalomerli011@gmail.com"><img src="https://img.shields.io/badge/ozalomerli011%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="ozalomerli011@gmail.com" height="28"/></a>
   <img src="https://img.shields.io/badge/OST%C4%B0M%20Teknik%20%C3%9Cniversitesi-0A3D62?style=for-the-badge" alt="OSTİM Teknik Üniversitesi" height="28"/>
 </p>
 
@@ -32,8 +32,8 @@ OSTİM Teknik Üniversitesi Mühendislik Fakültesi'nde **bilgisayarlı görü**
 > 📂 [Kod ve deney kayıtları](https://github.com/OzalOmarl1/plaka-tespiti-llm-artirim-aramasi)
 
 > **Güvenli Dijitalleşme ve Yapay Zekâ Etiği Bağlamında Proaktif Risk Algılama: YOLOv8 Tabanlı Erken Uyarı Sistemi**<br/>
-> *Sempozyum bildirisi*<br/>
-> Güvenli dijitalleşme ve yapay zekâ etiği çerçevesinde, YOLOv8 tabanlı nesne tespitiyle riskleri erken algılayıp uyarı üreten bir sistem.
+> *Dijital Dünyanın Kullanıcıları Üniversitelerarası Öğrenci Sempozyumu*, Erzincan Binali Yıldırım Üniversitesi · Bildiri Kitabı, s. 277–290<br/>
+> 📄 [Sempozyum bildiri kitabı (PDF)](https://ogrencisempozyumu.ebyu.edu.tr/Sempozyum_Bildiri_Kitabi.pdf#page=280)
 
 ---
 
